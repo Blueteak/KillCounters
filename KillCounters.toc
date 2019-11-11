@@ -1,0 +1,9 @@
+## Interface: 11302
+## Version: 1.0
+## Title: Kill Counters
+## Notes: Displays Killing Blows from abilities
+## Author: Blueteak
+## SavedVariablesPerCharacter: KillCounts
+
+KillCounters.lua
+KillCounters.xml
